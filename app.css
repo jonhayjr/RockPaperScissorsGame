@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+#game-text {
+   font-weight: bold;
+}
+
+.winner {
+    color: red;
+    font-size: 18px;
+}
